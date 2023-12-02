@@ -26,7 +26,9 @@ Instalasi streamlit
 
 ```sh
 pip install streamlit
+
 //Untuk melihat apakah sudah terinstall dengan baik
+
 streamlit hello
 ```
 
