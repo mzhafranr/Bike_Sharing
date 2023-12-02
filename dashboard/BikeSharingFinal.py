@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Membaca dataset
-url = "D:\Portofoilio\Bahan Zhafran\Final_Project\FinalProjectDicoding\submission\dashboard\day.csv"
+url = "dashboard/day.csv"
 df = pd.read_csv(url)
 
 # Mengubah nama judul kolom
