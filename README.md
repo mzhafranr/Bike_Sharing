@@ -20,7 +20,7 @@ Beberapa library yang diperlukan
 - Seaborn
 - Matplotlib
 
-## Installation
+## Installasi via CMD
 
 Instalasi streamlit
 
